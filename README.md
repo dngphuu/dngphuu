@@ -1,5 +1,5 @@
 # 💫 About Me:
-📝I'm learning Python and Maths<br>⛳I'm looking for help with Data Engineering<br>
+📝I'm learning Python and Maths<br>⛳I'm looking for help with Data Science<br>
 
 
 ## 🌐 Socials:
