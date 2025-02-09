@@ -1,23 +1,28 @@
-<h1 align="center">Hi 👋, I'm Dang Gia Phu</h1>
-<h3 align="center">Undergraduated Computer Science (majored in Data Science) at Posts and Telecommunications Institue of Technology.</h3>
+# 💫 About Me:
+📝I'm learning Python and Maths<br>⛳I'm looking for help with Data Engineering<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dngphuu&label=Profile%20views&color=0e75b6&style=flat" alt="dngphuu" /> </p>
 
-- 🔭 I’m currently working on [Absinthe's Todo](https://github.com/dngphuu/absinthe-todo)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dngphuu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dngphuu1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dngphuu1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dngphuu) 
 
-- 🤝 I’m looking for help with **Data Science :v**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dngphuu&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dngphuu&theme=discord_old_blurple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dngphuu&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- 📫 How to reach me **dngphuu@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/dngphuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dngphuu" height="30" width="40" /></a>
-<a href="https://instagram.com/dngphuu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dngphuu1" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dngphuu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=dngphuu&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dngphuu&show_icons=true&locale=en&layout=compact" alt="dngphuu" /></p>
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dngphuu) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dngphuu&show_icons=true&locale=en" alt="dngphuu" /></p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
